@@ -1,7 +1,11 @@
 # Open GitHub Copilot
 
-*Free GitHub Copilot*
+Welcome to Open GitHub Copilot, your free resource for leveraging GitHub Copilot's capabilities!
 
-Copilot's prompt obtained using the Prompt Hack.
+## Prompt Hack
+The prompt provided here is obtained using the Prompt Hack.
 
-[Get Prompt](prompt.md) | [Github](https://github.com/JankieQwQ/OpenGitHubCopilot/)
+## How to Use
+Get the Prompt: Visit the [prompt.md](prompt.md) file to view the prompt used to interact with Copilot.
+
+*Open GitHub Copilot - Empowering Developers, Enhancing Coding.*
