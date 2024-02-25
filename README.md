@@ -1,2 +1,4 @@
-# OpenGitHubCopilot
-Free GitHub Copilot
+# Open GitHub Copilot
+
+*Free GitHub Copilot*
+[Get Prompt](prompt.md)
