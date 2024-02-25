@@ -18,7 +18,7 @@ class ChatGPT:
         return message
 
 def on_ask_clicked():
-    prompt = prompt_text.get("1.0", tk.END).strip()
+    prompt = default_prompt + prompt_text.get("1.0", tk.END).strip()
     response = copilot.ask(prompt)
     result_text.delete("1.0", tk.END)
     result_text.insert(tk.END, response)
