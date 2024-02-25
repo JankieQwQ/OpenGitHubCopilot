@@ -2,4 +2,6 @@
 
 *Free GitHub Copilot*
 
-[Get Prompt](prompt.md)
+Copilot's prompt obtained using the Prompt Hack.
+
+[Get Prompt](prompt.md) | [Github](https://github.com/JankieQwQ/OpenGitHubCopilot/)
