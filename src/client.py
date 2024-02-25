@@ -44,7 +44,7 @@ prompt_label = tk.Label(window, text="Enter your prompt:")
 prompt_label.pack()
 
 prompt_text = tk.Text(window, height=4, width=50)
-prompt_text.insert(tk.END, default_prompt)
+prompt_text.insert(tk.END, 'Ask me anything...')
 prompt_text.pack()
 
 ask_button = tk.Button(window, text="Ask", command=on_ask_clicked)
